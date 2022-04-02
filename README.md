@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Oh, where u came from? Anyway, hi! 👋
+### let me introduce myself :)
+###
+###   public class Ale-eth{
+###     String name = "Alejandro";
+###     String localization = "Tandil, Argentina";
+###     
+###   }
 <!--
 **Ale-eth/ale-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
