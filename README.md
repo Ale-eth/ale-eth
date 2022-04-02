@@ -8,7 +8,7 @@
 ###    ✔  String backendSkills[ ] = {"PHP", "MySQL", "Java", "Spring", "C#"}}
 ###   
 ### ✨
-### 📚 Always learning about blockchain and smart contracts developement 💻⛓
+### 📚 Actually learning about blockchain and smart contracts developement 💻⛓
 <!--
 **Ale-eth/ale-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
