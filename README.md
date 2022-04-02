@@ -4,8 +4,8 @@
 ###   public class Ale-eth{
 ###     String name = "Alejandro"; 🧑
 ###     String location = "Tandil, Argentina"; 🇦🇷
-###     String frontendSkills[] = {"HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Bootstrap", "TailWind"}
-###     String backendSkills[] = {"PHP", "MySQL", "Java", "Spring"}
+###     String frontendSkills[ ] = {"HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Bootstrap", "TailWind"}
+###     String backendSkills[ ] = {"PHP", "MySQL", "Java", "Spring"}
 ###   }
 <!--
 **Ale-eth/ale-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
