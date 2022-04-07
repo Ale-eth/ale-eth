@@ -1,4 +1,4 @@
-### Oh, hi there! Where u came from? Please let me introduce myself! 👋
+### Hey! Where u came from? Please let me introduce myself! 👋
 ### ✨
 ###   public class Ale-eth{
 ###    ✔  String name = "Alejandro"; 🧑
