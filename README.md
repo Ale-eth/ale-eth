@@ -32,7 +32,7 @@ Im 22 years old, actually studiyng an Application Developement Universitary Degr
 * Attention to every detail
 * Not a coworker, im a teammate
 * Adaptable to circumstances
-* Learn to share
+* Love to learn
 
 ### Crypto ₿
 <a target="_blank" href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
