@@ -2,7 +2,7 @@
 ### ✨
 ###   public class Ale-eth{
 ###    ✔  String name = "Alejandro"; 🧑
-###    ✔  String location = "Tandil, Argentina"; 🇦🇷
+###    ✔  String location = "Tandil, Argentina"; 🌍
 ###    ✔  String actualStudies = "Application developement universitary degree";
 ###    ✔  String frontendSkills[ ] = {"HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Bootstrap"}
 ###    ✔  String backendSkills[ ] = {"PHP", "MySQL", "Java", "Spring", "C#"}}
