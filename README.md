@@ -1,4 +1,4 @@
-Hi 👋 My name is Ale, wellcome to my interactive portfolio!
+Hi 👋 My name is Ale, welcome to my Github profile!
 ==========================
 
 Web fullstack developer, and web 3.0 builder 💻⛓
