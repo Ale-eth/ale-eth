@@ -44,6 +44,6 @@ src="https://img.shields.io/twitter/follow/lulu_stonks?logo=twitter&style=for-th
 ### Get in touch with me
 
 <p align="left"> <a href="https://www.github.com/Ale-eth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alejandro-abdala-705382207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/lulu_stonks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
 
+### Badges
 <a href="https://github.com/Ale-eth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-eth&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
