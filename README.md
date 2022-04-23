@@ -10,10 +10,6 @@ Im 22 years old, actually studiyng an Application Developement Universitary Degr
 * 🖥️  See my portfolio at [git-hub/Ale-eth](http://github.com/Ale-eth?tab=projects&type=beta)
 * 🧠  I'm learning Solidity, smart contracts and blockchain developement 📚💻⛓
 
-<a href="https://www.twitter.com/lulu_stonks" target="_blank" rel="noreferrer" target="_blank"><img
-src="https://img.shields.io/twitter/follow/lulu_stonks?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
-/></a>
-
 ### Hard skills 💻💭
 
 * Frontend:
@@ -45,7 +41,11 @@ src="https://img.shields.io/twitter/follow/lulu_stonks?logo=twitter&style=for-th
 <a target="_blank" href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 
 ### Get in touch with me
-<p align="left"> <a href="https://www.github.com/Ale-eth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alejandro-abdala-705382207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/lulu_stonks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Ale-eth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alejandro-abdala-705382207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/lulu_stonks" target="_blank" rel="noreferrer" target="_blank"><img
+src="https://img.shields.io/twitter/follow/lulu_stonks?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
+/></a>
+</p>
 
 ### Some stats
 <a target="_blank" href="https://github.com/Ale-eth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-eth&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
