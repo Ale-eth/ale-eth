@@ -34,6 +34,7 @@ src="https://img.shields.io/twitter/follow/lulu_stonks?logo=twitter&style=for-th
 * Attention to every detail
 * Not a coworker, im a teammate
 * Adaptable to circumstances
+* Learn to share
 
 ### Crypto
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
