@@ -11,7 +11,7 @@ Im 22 years old, actually studiyng an Application Developement Universitary Degr
 * ✉️  You can contact me at [alejandroabdala2000@gmail.com](mailto:alejandroabdala2000@gmail.com)
 * 🧠  I'm learning Solidity, smart contracts and blockchain developement 📚💻⛓
 
-<a target="_blank" href="https://www.twitter.com/lulu_stonks" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/lulu_stonks" target="_blank" rel="noreferrer" target="_blank"><img
 src="https://img.shields.io/twitter/follow/lulu_stonks?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
 /></a>
 
