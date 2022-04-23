@@ -1,7 +1,7 @@
 Hi 👋 My name is Ale, welcome to my Github profile!
 ==========================
 
-Web fullstack developer, and web 3.0 builder 💻⛓
+Fullstack developer, and web 3.0 builder 💻⛓
 ------------------------------------------------
 
 Im 22 years old, actually studiyng an Application Developement Universitary Degree.
@@ -42,6 +42,7 @@ Im 22 years old, actually studiyng an Application Developement Universitary Degr
 
 ### Get in touch with me
 <p align="left"> <a href="https://www.github.com/Ale-eth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alejandro-abdala-705382207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  
 <a href="https://www.twitter.com/lulu_stonks" target="_blank" rel="noreferrer" target="_blank"><img
 src="https://img.shields.io/twitter/follow/lulu_stonks?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
 /></a>
