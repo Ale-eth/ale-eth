@@ -8,7 +8,7 @@ Im 22 years old, actually studiyng an Application Developement Universitary Degr
 
 * 🌍  From Tandil, Argentina
 * 🖥️  See my portfolio at [git-hub/Ale-eth](http://github.com/Ale-eth?tab=projects&type=beta)
-* 🧠  I'm learning Solidity, smart contracts and blockchain developement 📚💻⛓
+* 🧠  Actually learning Solidity, smart contracts and blockchain developement 📚💻⛓
 
 ### Hard skills 💻💭
 
