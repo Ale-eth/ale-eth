@@ -54,5 +54,5 @@ src="https://img.shields.io/twitter/follow/lulu_stonks?logo=twitter&style=for-th
 /></a>
 </p>
 
-### Some stats
+### Some stats about my repositories
 <a target="_blank" href="https://github.com/Ale-eth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-eth&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
