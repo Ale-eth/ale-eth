@@ -1,7 +1,7 @@
 Hi 👋 My name is Ale, welcome to my Github profile!
 ==========================
 
-Fullstack developer, and web 3.0 builder 💻⛓
+MERN Stack developer, and web 3.0 builder 💻⛓
 ------------------------------------------------
 
 Im 22 years old, actually studiyng an Application Developement Universitary Degree.
