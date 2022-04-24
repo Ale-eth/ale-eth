@@ -1,4 +1,5 @@
-Hi 👋 My name is Ale, welcome to my Github profile!
+Hi! 👋 
+My name is Ale, welcome to my Github profile!
 ==========================
 
 MERN Stack developer and web 3.0 builder 💻⛓
