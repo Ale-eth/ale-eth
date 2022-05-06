@@ -9,7 +9,7 @@ MERN Stack developer and web 3.0 builder 💻⛓
 
 Im 22 years old, actually studiyng an Application Developement Universitary Degree.
 
-* 🌍  From Tandil, Argentina
+* 🌍  From Tandil, Buenos Aires province, Argentina 🧉🇦🇷
 * 🖥️  See my portfolio at [git-hub/Ale-eth](http://github.com/Ale-eth?tab=projects&type=beta)
 * 🧠  Actually learning Solidity, smart contracts and blockchain developement 📚💻⛓
 
