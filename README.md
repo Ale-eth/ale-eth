@@ -1,4 +1,4 @@
-Hi! 👋 
+Hey! 👋 
 ==========================
 
 My name is Ale, welcome to my Github profile!
