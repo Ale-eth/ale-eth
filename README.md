@@ -24,11 +24,10 @@ Im 22 years old, actually studiyng an Software Developement Universitary Degree.
 
 ### Soft Skills 🗣🖤
 * Leadership soul
-* Attention to every detail
+* Care to every detail
 * Not a coworker, im a teammate
 * Adaptable to circumstances
 * Love to learn
-* 
 
 ### Get in touch with me 🤝
 <p align="left"> <a href="https://www.github.com/Ale-eth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alejandro-abdala-705382207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
